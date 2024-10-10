@@ -10,7 +10,7 @@ Hasta este punto del curso, ya hemos cubierto los fundamentos de Python, desde l
   - Entre las opciones, deben incluirse: agregar productos al inventario y mostrar los productos registrados.
 
 - **Implementar la funcionalidad para agregar productos a una lista:**
-  - Cada producto debe ser almacenado en una lista utilizando el formato de tupla o lista (según lo prefieras).
+  - Cada producto debe ser almacenado en una lista utilizando el formato de lista.
   - Cada producto debe tener al menos un nombre y una cantidad asociada.
 
 - **Mostrar los productos ingresados:**
