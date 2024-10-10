@@ -18,7 +18,8 @@ Hasta este punto del curso, ya hemos cubierto los fundamentos de Python, desde l
 
 ### Instrucciones adicionales:
 
-- El archivo principal donde se debe desarrollar el código es **`app.py`**. Todo el trabajo debe realizarse dentro de este archivo.
+- El archivo principal donde se debe desarrollar el código es **`app.py`**. Todo el trabajo debe realizarse dentro de este archivo debajo del comentario **_# AQUÍ PUEDES DESARROLLAR LA SOLUCIÓN_**.
+Si eliminas o modificas algo por fuera de la estructura el proyecto no será validado.
 - Existe una carpeta de pruebas llamada **`tests/`** con archivos que contienen los tests automáticos para el proyecto. **No debes modificar ni eliminar la carpeta `tests` ni los archivos dentro de ella**. Estos archivos te permitirán validar automáticamente si tu implementación es correcta.
 
 Este ejercicio te va a permitir sentar las bases para el desarrollo del inventario que será parte de tu Proyecto Final Integrador (PFI). Recuerda seguir las buenas prácticas de codificación que hemos discutido en clase y utilizar bucles, listas y condicionales de manera eficiente.
