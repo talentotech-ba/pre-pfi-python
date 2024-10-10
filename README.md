@@ -16,6 +16,9 @@ Hasta este punto del curso, ya hemos cubierto los fundamentos de Python, desde l
 - **Mostrar los productos ingresados:**
   - Al seleccionar la opción correspondiente, el sistema debe permitir visualizar los productos almacenados hasta el momento.
 
+- **Salir de la aplicación:**
+  - Al seleccionar la opción correspondiente, el sistema debe permitir finalizar la ejecución del script y salir de la aplicación.
+
 ### Instrucciones adicionales:
 
 - El archivo principal donde se debe desarrollar el código es **`app.py`**. Todo el trabajo debe realizarse dentro de este archivo debajo del comentario **_# AQUÍ PUEDES COMENZAR A DESARROLLAR LA SOLUCIÓN_**.
